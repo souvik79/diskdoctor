@@ -1,0 +1,12 @@
+# Never commit generated reports or scan data — they list private file paths.
+DiskReports/
+*.report.html
+disk-report-*.html
+scan-*.txt
+ai-out-*.txt
+last-run.log
+launchd.*.log
+last_free_gb.txt
+
+# macOS cruft
+.DS_Store

@@ -12,6 +12,10 @@ It also tracks **month-over-month trend**, so you catch the *next* runaway log o
 
 > **Report-only. It never deletes anything.** It hands you the commands; you stay in control.
 
+![Disk Doctor monthly report](docs/screenshot.png)
+
+*Example report (demo data). Stat cards show free space + trend + total reclaimable; the green table lists safe-to-delete items with ready-to-paste commands.*
+
 ---
 
 ## Why
